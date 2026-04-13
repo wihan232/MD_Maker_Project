@@ -1,0 +1,26 @@
+#myInput {
+  width: 50%;       /* Fills the entire width of its container */
+  height: 700px;      /* Sets a specific vertical height */
+  box-sizing: border-box; /* Ensures padding doesn't push the box outside its container */
+
+  background-color: black;
+  resize: none;
+  color: rgb(197, 197, 197);
+}
+
+.container {
+  display: flex;
+}
+
+p {
+  color: rgb(197, 197, 197);
+}
+
+body {
+  background-color: black;
+  color: black;
+}
+button {
+  color: rgb(197, 197, 197);
+  background-color: black;
+}
